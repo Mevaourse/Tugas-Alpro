@@ -1,0 +1,7 @@
+Pada kedua contoh di atas, kita menggunakan struktur (structure) Mahasiswa yang memiliki empat anggota yaitu nim, nama, jurusan, dan tahunLulus.
+
+Dalam contoh array statis, kita deklarasikan array mahasiswa dengan ukuran 4 dan langsung menginisialisasi elemennya dengan nilai-nilai yang sesuai.
+
+Dalam contoh array dinamis, kita deklarasikan variabel jumlahMahasiswa untuk menyimpan jumlah mahasiswa yang akan digunakan. Kemudian, kita menggunakan operator 
+new untuk mengalokasikan memori secara dinamis untuk array mahasiswa berdasarkan jumlahMahasiswa. Setelah itu, kita mengisi elemen-elemen array dengan
+nilai-nilai yang sesuai.
